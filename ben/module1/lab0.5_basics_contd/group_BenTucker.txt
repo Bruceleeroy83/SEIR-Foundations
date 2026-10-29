@@ -1,0 +1,3 @@
+Spotter = ?
+Teammates = Ben Tucker, ?
+Days + Times when your team meets = ?
